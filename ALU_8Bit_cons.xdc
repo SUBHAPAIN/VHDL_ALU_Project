@@ -1,3 +1,5 @@
+##MASTER XDC FILE FOR PINE S7 FPGA BOARD xc7s15ftgb196-1
+
 ##Buttons (FOR SELECT PINS)
 set_property -dict { PACKAGE_PIN B5   IOSTANDARD LVCMOS33 } [get_ports { SEL[0] }]; 
 set_property -dict { PACKAGE_PIN A4   IOSTANDARD LVCMOS33 } [get_ports { SEL[1] }]; 
